@@ -56,8 +56,8 @@ module.exports = {
   config: {
     name: "help",
     aliases: ["menu"],
-    version: "2.0",
-    author: "Saimx69x | fixed by Aphelion",
+    version: "2.1",
+    author: "Saimx69x | edited by Evan",
     role: 0,
     category: "info",
     shortDescription: "Show all commands",
@@ -114,7 +114,7 @@ module.exports = {
       msg += `\n━━━━━━━━━━━━━━\n`;
       msg += `🔢 Total Commands: ${total}\n`;
       msg += `⚡ Prefix: ${prefix}\n`;
-      msg += `👑 Owner: Aphelion`;
+      msg += `👑 𝗢𝗪𝗡𝗘𝗥 : 𝗘𝘃𝗮𝗻 💎🔥`;
 
       return message.reply(msg);
     }
